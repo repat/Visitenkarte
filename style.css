@@ -9,7 +9,6 @@ body {
     color: #666;
     font: 13px/26px Open Sans, Helvetica Neue, Arial, Sans-Serif;
     margin: 10px;
-    text-shadow: 1px white;
     text-shadow: white 0px 1px 0px;
     -webkit-text-size-adjust: none;
 }

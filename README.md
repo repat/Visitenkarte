@@ -2,6 +2,9 @@ Visitenkarte
 ======
 Visitenkarte(engl. *business card*) is a simple website and much like the real world equivalent. It has little 16x16 PNG images that link to some webservices. It should have all the relevant tags in the code to make it easy to google you.
 
+## Example
+* [http://repat.de/Visitenkarte](http://repat.de/Visitenkarte)
+
 ## Tags
 * `<meta>`-tags
 * `<title>`
