@@ -24,8 +24,11 @@ Visitenkarte(engl. *business card*) is a simple website and much like the real w
 * GitHub
 * Codecademy
 * Flickr
+* Instagramm
 * XING
 * LinkedIn
+* Vimeo
+* YouTube
 
 Something missing? Email me!
 
@@ -34,6 +37,8 @@ It's based on a design I found on [kaiser.me](http://kaiser.me), which itself is
 
 ## Disclaimer
 I used the [placeholder name John Doe](https://en.wikipedia.org/wiki/John_Doe) for my example. If someone really has an online profile with this name or is even a webdesigner and cook from Sydney, it is a pure coincidence.
+
+Logos and images are trademarked by their respective companies.
 
 ## Contact
 * http://repat.de
