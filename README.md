@@ -21,8 +21,11 @@ Visitenkarte(engl. *business card*) is a simple website and much like the real w
 * Facebook
 * Twitter
 * Google+
+* Tumblr
+* Pinterest
 * GitHub
 * Codecademy
+* StackOverflow
 * Flickr
 * Instagramm
 * XING
